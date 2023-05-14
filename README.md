@@ -59,20 +59,25 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 HEAD :
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/fc49a355-2107-4abc-8d5b-a17fe390759a)
+
 INFO:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/3933d17c-0ae0-41f1-96d3-ad8499bb883e)
 
 ISNULL:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/c353605d-a95c-416b-8b89-2ced700b532c)
+
 Head using labelencoder:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/0ad84719-6381-426c-bfb1-14bdbcf30aaa)
+
 Accuracy with entropy::
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/0e3956ec-dfb3-441f-8e9a-e0a2fc33df5d)
 
 Prediction with entropy:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/7b900774-6ee1-4908-a47a-aa6519cec78b)
+
 Accuracy without entropy:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/a5ab47bc-d578-4735-91c9-77ea16c94a6d)
+
 Prediction without entropy:
 ![image](https://github.com/Thenmozhi-Palanisamy/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/95198708/6e4a7388-47e7-4549-aa33-b09bd4ede958)
 
